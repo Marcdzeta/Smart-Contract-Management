@@ -342,9 +342,7 @@ export default function HomePage() {
   
         
 ## Executing Program
-To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/. 
-Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension 
-(e.g., HelloWorld.sol). Then copy the code given in the assessment.
+Make sure MetaMask is installed in the browser and linked to the Ethereum network before launching the program. The next step is to clone or download the template repository from https://github.com/MetacrafterChris/SCM-Starter on GitHub. After downloading the template, open the project directory in the terminal and use npm install to install the required dependencies. Start the development server by typing npm start once the files or dependencies have been installed. This will enable you to use your browser to view the application at http://localhost:3000. If you haven't connected your MetaMask wallet yet, just click the "Open Wallet" button and adhere to the on-screen directions to do so.
 
 ## Author
 Marc Danniel Mariazeta 61902476@ntc.edu.ph
